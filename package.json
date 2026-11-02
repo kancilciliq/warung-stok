@@ -1,0 +1,14 @@
+{
+  "name": "warung-stok",
+  "version": "1.0.0",
+  "description": "Stack: **Node.js (Express)** · **React (Vite)** · **MySQL**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
